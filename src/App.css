@@ -18,6 +18,22 @@
   font-size: large;
 }
 
+#resultForm{
+  margin-top: 10px;
+}
+
+#result{
+  color: #64a3c1;
+}
+
+.hidden { 
+  display:none; 
+}
+
+.show{
+
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
